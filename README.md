@@ -1,4 +1,4 @@
 me.sitcon.org
 ===============
 
-SITCON staff Online ID Card for Business Card to share for others.
+SITCON staff online ID card for sharing and business card use.
